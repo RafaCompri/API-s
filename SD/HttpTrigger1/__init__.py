@@ -13,7 +13,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 
     print("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=")
     print("Bem vindo, aqui vamos medir o tempo de execução (Processo 1)")
-    quant_Repet = int(input("quantos LOOPS deseja?  "))
+    quant_Repet = 5
     print("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=")
 
 
