@@ -1,0 +1,7 @@
+ERIK FERNANDO -> 22.119.074-7
+
+RAFAEL COMPRI -> 22.119.063-0
+
+API: https://processo1.azurewebsites.net/api/httptrigger1
+
+Arquivo .py esta dentro da pasta HttpTrigger
