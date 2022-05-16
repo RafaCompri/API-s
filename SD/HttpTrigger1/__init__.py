@@ -43,13 +43,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 
             tempo_Gasto = tempo_Final-tempo_Inicial
 
-            if(not tempo and tempo_Gasto >= 5):
-                
-                
-                print("5 segundos de execução.")
-                
-                
-                tempo = True
+            
 
 
   
